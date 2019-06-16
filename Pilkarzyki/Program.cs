@@ -13,7 +13,7 @@ namespace Pilkarzyki
 
 
             Console.WriteLine("*****************************************");
-            Console.WriteLine("Rozpoczynamy kolejny turniej Renata's Cup");
+            Console.WriteLine("Rozpoczynamy kolejny turniej Renata's Cup!");
             Console.WriteLine("*****************************************\n");
 
 
